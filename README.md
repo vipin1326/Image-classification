@@ -6,7 +6,6 @@ While it is very easy for human and animal brains to classify objects, the compu
 ![cnn-schema1](https://user-images.githubusercontent.com/44171241/50384220-fc342a80-06e7-11e9-9127-d9e21508b543.jpg)
 
 The convolutional neural networks make a conscious tradeoff: if a network is designed for specifically handling the images, some generalizability has to be sacrificed for a much more feasible solution.
- 
-Here I used CNN(Convolution Neural Network) to build a image classification model.
+
 
 Dataset Used : CIFAR10
