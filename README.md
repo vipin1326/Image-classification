@@ -1,4 +1,4 @@
-# Image-classification
+# Image-classification-
 
 Image classification is the capability to identify people, places, objects, actions and writing in images.
 While it is very easy for human and animal brains to classify objects, the computers have difficulty with the same task. When we look at something like a tree or a car or our friend, we usually don’t have to study it consciously before we can tell what it is. However, for a computer, identifying anything(be it a clock, or a chair, human beings or animals) represents a very difficult problem and the stakes for finding a solution to that problem are very high.
